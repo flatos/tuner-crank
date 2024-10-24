@@ -11,7 +11,7 @@ This repository contain STL models and SolidWorks files for a crank suitable for
 
 ![Graph](img/Parts.png)
 
-Print the STL files in the '/models' directory. I used `eSun ePA-CF` filament (carbon-fiber nylon) for the crank and ASA for the knob,
+Print the STL files in the `/models` directory. I used `eSun ePA-CF` filament (carbon-fiber nylon) for the crank and ASA for the knob,
 but presumably anything would work.
 
 Use the parts from a couple of pop rivets to assemble the pin for the knob as shown.
