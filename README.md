@@ -18,6 +18,8 @@ Use the parts from a couple of pop rivets to assemble the pin for the knob as sh
 
 Clean up the holes in the parts with a drill (0.25" for the shaft and interior of knob, 0.191" or so for the inserts, 0.080" for the pin).
 
+Install the 6-32 brass inserts with a hot soldering iron.
+
 Assemble and epoxy the pin in place on the underside. Use a bit of paper or similar to space the knob away from the crank until the glue cures to ensure that it spins freely.
 
 <br/>
